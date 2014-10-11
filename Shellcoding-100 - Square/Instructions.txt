@@ -1,0 +1,8 @@
+Do as it says. Host: ctf.raytheon.si Port: 24816
+
+
+
+
+Give me x86 shellcode that will take the square root of a number.
+Your shellcode should expect input in eax and return its result in eax.
+Your shellcode must be EXACTLY 32 bytes (pad it with NOPs (0x90) if it is shorter).

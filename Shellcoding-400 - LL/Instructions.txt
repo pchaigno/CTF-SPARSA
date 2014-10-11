@@ -1,0 +1,6 @@
+Capture the flag. Host: ctf.raytheon.si Port: 11449
+
+
+I skipped Data Structures in school. Can you check my homework?
+Number of items: 1
+Item: bag

@@ -1,0 +1,1 @@
+Capture the flag.\nHost: ctf.raytheon.si\nPort: 21220

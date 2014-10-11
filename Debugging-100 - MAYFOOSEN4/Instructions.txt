@@ -1,0 +1,1 @@
+We seem to have lost the decryption key for our secure password generator. Can you help us out? We need decryptFunc("MAYFOOSEN4").

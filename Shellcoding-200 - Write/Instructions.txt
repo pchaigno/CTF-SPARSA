@@ -1,0 +1,8 @@
+Do as it says. Host: ctf.raytheon.si Port: 10080
+
+
+
+The flag is in memory (specifically, there's a pointer to it in esi).
+It's yours for the taking, but you have EXACTLY 16 bytes to steal it with.
+(Remember, this is x86, and you may pad your shellcode with NOPs if it is shorter.)
+Good luck!

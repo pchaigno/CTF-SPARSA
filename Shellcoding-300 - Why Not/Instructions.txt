@@ -1,0 +1,4 @@
+Capture the flag. Host: ctf.raytheon.si Port: 2927
+
+
+Need a shell?
